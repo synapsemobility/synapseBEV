@@ -1,8 +1,8 @@
-from synapsebev import main_synapse_plan
+from synapsebev import main_synapse_eyes
 import fire
 
-def main(config_file, output_file):
-    main_synapse_plan(config_file, output_file)
+def main(config_file):
+    main_synapse_eyes(config_file)
 
 if __name__ == "__main__":
     fire.Fire()

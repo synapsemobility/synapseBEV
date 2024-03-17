@@ -1,0 +1,91 @@
+---
+debug_mode: true
+aws_config:
+  db_table_name: "warehouse_v1"
+  s3_config: 
+    bucket_name: "synapse-warehouse-bucket-v1"
+    file_name: "cost_map.pkl"
+cost_map: 
+  max_rows: 20
+  max_cols: 20
+robot_batch:
+- robot_id: "1"
+  start_pos_x: 8
+  start_pos_y: 9
+  start_vel_x: -1
+  start_vel_y: 1
+  perc_range: 3
+- robot_id: "2"
+  start_pos_x: 4
+  start_pos_y: 5
+  start_vel_x: 1
+  start_vel_y: 1
+  perc_range: 3
+- robot_id: "3"
+  start_pos_x: 2
+  start_pos_y: 8
+  start_vel_x: 1
+  start_vel_y: -1
+  perc_range: 3
+- robot_id: "4"
+  start_pos_x: 2
+  start_pos_y: 6
+  start_vel_x: -1
+  start_vel_y: -1
+  perc_range: 1
+- robot_id: "5"
+  start_pos_x: 14
+  start_pos_y: 2
+  start_vel_x: -1
+  start_vel_y: 1
+  perc_range: 1
+- robot_id: "6"
+  start_pos_x: 19
+  start_pos_y: 1
+  start_vel_x: 1
+  start_vel_y: -1
+  perc_range: 1
+- robot_id: "7"
+  start_pos_x: 15
+  start_pos_y: 19
+  start_vel_x: 1
+  start_vel_y: 1
+  perc_range: 1
+- robot_id: "8"
+  start_pos_x: 5
+  start_pos_y: 19
+  start_vel_x: -1
+  start_vel_y: -1
+  perc_range: 1
+- robot_id: "9"
+  start_pos_x: 3
+  start_pos_y: 18
+  start_vel_x: -1
+  start_vel_y: 1
+  perc_range: 1
+- robot_id: "10"
+  start_pos_x: 13
+  start_pos_y: 11
+  start_vel_x: 1
+  start_vel_y: -1
+  perc_range: 1
+- robot_id: "11"
+  start_pos_x: 13
+  start_pos_y: 11
+  start_vel_x: 1
+  start_vel_y: -1
+  perc_range: 1
+- robot_id: "12"
+  start_pos_x: 15
+  start_pos_y: 19
+  start_vel_x: -1
+  start_vel_y: 1
+  perc_range: 1
+- robot_id: "13"
+  start_pos_x: 0
+  start_pos_y: 0
+  start_vel_x: 1
+  start_vel_y: 1
+  perc_range: 1
+hurdles: 
+...
