@@ -1,2 +1,2 @@
 # synapsebev
-A BEV visualization tool for Synapse Mobility products
+A BEV visualization tool for Synapse Mobility products.
