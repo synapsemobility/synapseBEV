@@ -2,8 +2,9 @@
 A BEV visualization tool for Synapse Mobility products
 
 
-## 2-step Library Installation
+## 3-step Library Installation
 ```
+git clone https://github.com/synapsemobility/synapseBEV.git
 pip install synapsebev
 cd synapsebev
 ```
