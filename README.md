@@ -21,7 +21,8 @@ Grayscale: White: Fully visible; Black: Non-visible\
 Trailing shadow: Slowly decaying visibly to the non-visible region as time passes (Due to the dynamic environment)\
 
 
-![8jmq2g](https://github.com/synapsemobility/synapseBEV/assets/163760520/ad2d78bb-0274-49e8-bb3b-8fe7e0ee6dd7)
+![8jmqow](https://github.com/synapsemobility/synapseBEV/assets/163760520/b386a16d-ada6-46e1-bff8-3e251ab94b83)
+
 
 
 
