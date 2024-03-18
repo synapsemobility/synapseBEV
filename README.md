@@ -37,5 +37,11 @@ python launch_synapse_plan.py --config_file configs/synapse_plan/config_file.yml
 
 Below, two robots collaboratively planned their path from the starting position to the goal position. 
 
-https://github.com/synapsemobility/synapseBEV/assets/163760520/217065bb-8fd5-4bb4-9577-3c99faf49480
+|            Current Approach (Failure)           |            with Synapse (Success)           |
+|:--------------------------------------:|:--------------------------------------:|
+| https://github.com/synapsemobility/synapseBEV/assets/163760520/1e3839bb-0937-4795-8cff-3641ea965f04 | https://github.com/synapsemobility/synapseBEV/assets/163760520/c88a9e92-d436-4a8d-8672-bd9b30293056
+|
+
+
+
 
