@@ -39,13 +39,7 @@ Below, two robots collaboratively planned their path from the starting position 
 
 |            Current Approach (Failure)           |            with Synapse (Success)           |
 |:--------------------------------------:|:--------------------------------------:|
-|  | |
-
-
-
-
-https://github.com/synapsemobility/synapseBEV/assets/163760520/d9c8a2f3-e9f6-406c-8b65-b6a29f259a75
-
+| ![current-ezgif com-video-to-gif-converter](https://github.com/synapsemobility/synapseBEV/assets/163760520/542f194e-d374-4f32-b872-d24b2756a27a) | ![synapse_plan-ezgif com-video-to-gif-converter](https://github.com/synapsemobility/synapseBEV/assets/163760520/9cdc695d-95ce-45eb-81b4-186e7b1c205e) |
 
 
 
