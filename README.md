@@ -39,8 +39,15 @@ Below, two robots collaboratively planned their path from the starting position 
 
 |            Current Approach (Failure)           |            with Synapse (Success)           |
 |:--------------------------------------:|:--------------------------------------:|
-| https://github.com/synapsemobility/synapseBEV/assets/163760520/1e3839bb-0937-4795-8cff-3641ea965f04 | https://github.com/synapsemobility/synapseBEV/assets/163760520/c88a9e92-d436-4a8d-8672-bd9b30293056
-|
+|  | |
+
+
+
+
+https://github.com/synapsemobility/synapseBEV/assets/163760520/d9c8a2f3-e9f6-406c-8b65-b6a29f259a75
+
+
+
 
 
 
