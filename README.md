@@ -15,10 +15,11 @@ cd synapsebev
 python launch_synapse_eyes.py --config_file configs/synapse_eyes/config_file.yml
 ```
 The visualization below shows how the perception score increased when multiple robots could share their perception data through synapse eyes. \
+Key \\
 Blue: Ego robot\
 Red: Other robots in the scene\
 Grayscale: White: Fully visible; Black: Non-visible\
-Trailing shadow: Slowly decaying visibly to the non-visible region as time passes (Due to the dynamic environment)\
+Trailing shadow: Slowly decaying visibility (White to black) to the non-visible region as time passes (Due to the dynamic environment)\
 
 
 
