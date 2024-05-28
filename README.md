@@ -14,8 +14,7 @@ cd synapsebev
 ```
 python launch_synapse_eyes.py --config_file configs/synapse_eyes/config_file.yml
 ```
-The visualization below shows how the perception score increased when multiple robots could share their perception data through synapse eyes. \
-\
+The visualization below shows how the perception score increased when multiple robots could share their perception data through synapse eyes. 
 ### Key: 
 - Blue: Ego robot
 - Red: Other robots in the scene
